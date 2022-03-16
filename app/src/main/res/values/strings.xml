@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nft App</string>
+    <string name="nft_marketplace">NFT Marketplace</string>
+    <string name="nft_intro_image">Nft Intro Image</string>
+    <string name="collect_and_sell_digital_arts"><font color='#FFB703'><b>Collect</b></font> and <font color='#FFB703'><b>Sell</b></font> Digital Arts</string>
+    <string name="continue_">Continue</string>
+    <string name="search">Search</string>
+    <string name="featured">Featured</string>
+    <string name="view_all">View all</string>
+    <string name="bored_ape">Bored Ape</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_bg">#023047</color>
+    <color name="yellow">#FFB703</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="title_featured">#66CBCBCB</color>
+    <color name="category">#C0C0C0</color>
+</resources>

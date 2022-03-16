@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.NftApp" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/white</item>
+        <!-- Customize your theme here. -->
+        <item name="fontFamily">@font/futura_bold</item>
+
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:fragmentEnterTransition">@transition/transition_animation</item>
+    </style>
+</resources>
