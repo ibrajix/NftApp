@@ -3,7 +3,6 @@ plugins {
     id 'org.jetbrains.kotlin.android'
     id 'dagger.hilt.android.plugin'
     id 'kotlin-kapt'
-    id 'kotlinx-serialization'
 }
 apply plugin: 'kotlin-android'
 
@@ -93,12 +92,6 @@ dependencies {
     implementation "com.google.dagger:hilt-android:$hilt_version"
     kapt "com.google.dagger:hilt-compiler:$hilt_version"
 
-    //kotlin serialization
-    implementation "org.jetbrains.kotlinx:kotlinx-serialization-json:$kotlin_serialization_version"
-
-    //retrofit kotlin serialization
-    implementation "com.jakewharton.retrofit:retrofit2-kotlinx-serialization-converter:$kotlin_converter_serialization_version"
-
     //lifecycle aware
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
 
@@ -113,8 +106,7 @@ dependencies {
 
     //gson converter
     implementation "com.squareup.retrofit2:converter-gson:$retrofit_version"
-    implementation "androidx.core:core-ktx:+"
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+
 
 }
 repositories {

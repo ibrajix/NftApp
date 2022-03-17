@@ -55,13 +55,16 @@ sealed class NftViewHolder(binding: ViewBinding) : RecyclerView.ViewHolder(bindi
 
     class TrendingViewHolder(private val binding: RcvLytTrendingBinding) : NftViewHolder(binding){
         fun bind(trending: NftData.Trending){
+
             binding.imgTrending.load(trending.image){
                 crossfade(true)
                 transformations(CircleCropTransformation())
             }
+
             binding.topNftContainer.setOnClickListener {
                 itemClickListener?.invoke(it, trending, adapterPosition)
             }
+
             binding.txtNftTitle.text = trending.name
             binding.txtCategory.text = trending.category
         }

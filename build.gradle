@@ -12,7 +12,6 @@ buildscript {
         classpath "com.google.dagger:hilt-android-gradle-plugin:$hilt_android_plugin_version"
 
         //serializer
-        classpath "org.jetbrains.kotlin:kotlin-serialization:$kotlin_version"
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
 
     }

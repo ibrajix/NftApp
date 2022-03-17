@@ -1,5 +1,6 @@
 package com.ibrajix.nftapp.data
 
+
 sealed class NftData {
 
     class Title(
