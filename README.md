@@ -44,7 +44,7 @@ I wrote a blog post about this, check it:
 # License
 
 ```xml
-Designed and developed by 2021 Inuwa Ibrahim (ibrajix)
+Designed and developed by 2022 Inuwa Ibrahim (ibrajix)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
