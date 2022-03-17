@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Inuwa Ibrahim on 17/03/2022, 7:43 PM
+  ~     https://linktr.ee/Ibrajix
+  ~     Copyright (c) 2022.
+  ~     All rights reserved.
+  -->
+
 <resources>
     <color name="main_bg">#023047</color>
     <color name="yellow">#FFB703</color>

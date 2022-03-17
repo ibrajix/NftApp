@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<MotionScene 
+<!--
+  ~ Created by Inuwa Ibrahim on 17/03/2022, 7:43 PM
+  ~     https://linktr.ee/Ibrajix
+  ~     Copyright (c) 2022.
+  ~     All rights reserved.
+  -->
+
+<MotionScene
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:motion="http://schemas.android.com/apk/res-auto">
 

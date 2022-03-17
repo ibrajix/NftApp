@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Inuwa Ibrahim on 17/03/2022, 7:43 PM
+  ~     https://linktr.ee/Ibrajix
+  ~     Copyright (c) 2022.
+  ~     All rights reserved.
+  -->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle"
     android:padding="10dp">
