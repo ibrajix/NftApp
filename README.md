@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
-  <a href="https://ibrajix.medium.com/newsfly-%EF%B8%8F-a-modern-news-app-featuring-mvvm-navigation-component-flow-pagination-search-room-90e3970176b4"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
+  <a href="https://medium.com/@ibrajix/how-to-build-a-beautiful-multiple-view-recyclerview-app-the-right-way-ee0da34d4c02"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
   <a href="https://github.com/ibrajix"><img alt="Github Profile" src="https://badges.aleen42.com/src/github.svg"/></a> 
   <a href="https://twitter.com/ibrajix"><img alt="Twitter Profile" src="https://badges.aleen42.com/src/twitter.svg"/></a> 
 </p>
@@ -26,25 +26,25 @@
 - Lottie Animation
 - MVVM
 - Retrofit 
-- Dependency Injection with Hilt
+- Dependency Injection with Hilt and lots more 🙂
 
 ## DOWNLOAD
 <a href="https://github.com/ibrajix/NftApp/releases/download/v1.0/nftapp_1.0.apk">Click Here </a> to download and test the app
 
 ## NB
-I used a free tier plan of (https://mockapi.io/) which I used to build the API.
+I used a free tier plan of (https://mockapi.io/) to build the API.
 
 If at anypoint the data doesn't load, it could be rate limitation from the external api.
 
 ## READ
 
 I wrote a blog post about this, check it:
-<a href="https://ibrajix.medium.com/newsfly-%EF%B8%8F-a-modern-news-app-featuring-mvvm-navigation-component-flow-pagination-search-room-90e3970176b4">News Fly Blog Post</a>
+<a href="https://medium.com/@ibrajix/how-to-build-a-beautiful-multiple-view-recyclerview-app-the-right-way-ee0da34d4c02">Nft App Blog Post</a>
 
 # License
 
 ```xml
-Designed and developed by 2021 Inuwa Ibrahim (ibrajix)
+Designed and developed by 2022 Inuwa Ibrahim (ibrajix)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
