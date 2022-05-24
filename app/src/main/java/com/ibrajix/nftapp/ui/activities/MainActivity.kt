@@ -71,10 +71,10 @@ class MainActivity : AppCompatActivity() {
         nftAdapter.itemClickListener = { view, item, position ->
 
             when(item) {
-                is NftData.Title -> Toast.makeText(this, "View all clicked", Toast.LENGTH_LONG).show()
-                is NftData.Featured -> Toast.makeText(this, "Featured nft clicked", Toast.LENGTH_LONG).show()
-                is NftData.Top -> Toast.makeText(this, "Top nft clicked", Toast.LENGTH_LONG).show()
-                is NftData.Trending -> Toast.makeText(this, "Trending nft clicked", Toast.LENGTH_LONG).show()
+                is NftData.Title -> Toast.makeText(this, "View all clicked", Toast.LENGTH_SHORT).show()
+                is NftData.Featured -> Toast.makeText(this, "Featured nft clicked", Toast.LENGTH_SHORT).show()
+                is NftData.Top -> Toast.makeText(this, "Top nft clicked", Toast.LENGTH_SHORT).show()
+                is NftData.Trending -> Toast.makeText(this, "Trending nft clicked", Toast.LENGTH_SHORT).show()
             }
 
         }
