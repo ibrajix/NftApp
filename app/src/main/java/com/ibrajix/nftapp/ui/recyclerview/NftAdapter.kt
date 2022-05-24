@@ -18,6 +18,7 @@ import com.ibrajix.nftapp.databinding.RcvLytFeaturedBinding
 import com.ibrajix.nftapp.databinding.RcvLytTitleBinding
 import com.ibrajix.nftapp.databinding.RcvLytTopPicksBinding
 import com.ibrajix.nftapp.databinding.RcvLytTrendingBinding
+
 import java.lang.IllegalArgumentException
 
 class NftAdapter : ListAdapter<NftData, NftViewHolder>(NftDiffCallBack()) {

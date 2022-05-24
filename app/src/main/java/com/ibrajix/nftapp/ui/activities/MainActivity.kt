@@ -48,14 +48,14 @@ class MainActivity : AppCompatActivity() {
         //set up recycler view
         binding.rcvNft.apply {
 
-            val gridLayoutManager = GridLayoutManager(this@MainActivity, 6)
+            val gridLayoutManager = GridLayoutManager(this@MainActivity, 2)
             gridLayoutManager.spanSizeLookup = object : SpanSizeLookup() {
                 override fun getSpanSize(position: Int): Int {
                     return when (nftAdapter.getItemViewType(position)) {
-                        R.layout.rcv_lyt_title -> 6
-                        R.layout.rcv_lyt_featured -> 6
-                        R.layout.rcv_lyt_top_picks -> 3
-                        R.layout.rcv_lyt_trending -> 6
+                        R.layout.rcv_lyt_title -> 2
+                        R.layout.rcv_lyt_featured -> 2
+                        R.layout.rcv_lyt_top_picks -> 1
+                        R.layout.rcv_lyt_trending -> 2
                         else -> 1
                     }
                 }
