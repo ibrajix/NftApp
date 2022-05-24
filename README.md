@@ -29,7 +29,7 @@
 - Dependency Injection with Hilt and lots more 🙂
 
 ## DOWNLOAD
-<a href="https://github.com/ibrajix/NftApp/releases/download/v1.0/nftapp_1.0.apk">Click Here </a> to download and test the app
+<a href="https://github.com/ibrajix/NftApp/releases/download/v1.0/nftapp.apk">Click Here </a> to download and test the app
 
 ## NB
 I used a free tier plan of (https://mockapi.io/) to build the API.
