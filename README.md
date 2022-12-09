@@ -14,6 +14,11 @@
 <br/>
 
 <p align="center">
+  This app was built with Kotlin. <br/> You can check out the Flutter(Dart) variant here:
+   https://github.com/ibrajix/NftAppFlutter
+</p>
+
+<p align="center">
   <img src ="https://user-images.githubusercontent.com/39574228/158677674-f9f32500-13e5-4472-893d-b9052eb7cbab.png">
   <i> UI designed by me </i>
 </p>
